@@ -9,7 +9,7 @@
     "license": "OPL-1",
     "depends": ["website"],
     "data": ["views.xml"],
-    "images": ["static/description/icon.png"],
+    "images": ["static/description/screenshot1.png"],
     "installable": True,
     "application": False,
     "auto_install": False,
