@@ -10,9 +10,9 @@
     "depends": ["website"],
     "data": ["views.xml"],
     "images": ["static/description/icon.png"],
-    "installable": true,
-    "application": false,
-    "auto_install": false,
+    "installable": True,
+    "application": False,
+    "auto_install": False,
     "price": 39.0,
     "currency": "EUR"
 }
